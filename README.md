@@ -12,8 +12,8 @@ This project is designed to simplify the process of running integration tests th
 
 
 ## Prerequisites
-- [.NET 6 SDK*)(https://dotnet.microsoft.com/download/dotnet/6.0)
-- [Docker*1](https://www.docker.com/get-started)
+- [.NET 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
+- [Docker](https://www.docker.com/get-started)
 - Any IDE (e.g., Visual Studio Code)
 
 
@@ -46,7 +46,7 @@ Ensure Docker is running, then run:
 dotnet test``c
 
 ## Author
-- [Anderson Meneses](https://www.linkedin.com/in/andersonmeneses)
+- [Anderson Meneses](https://www.linkedin.com/in/anderson-meneses/)
 
 ## Related Article
 - [Building a Testcontainers-based infrastructure in .NET Core - 8 Step by Step Guide](https://medium.com/@anderson.meneses/building-a-related-based-infrastructure-in-net-core-8-step-by-step-guide-de60f125a2d6)
